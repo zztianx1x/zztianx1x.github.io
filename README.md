@@ -24,3 +24,8 @@
 ![image](https://raw.githubusercontent.com/zztianx1x/zztianx1x.github.io/master/1234511.jpg)
 
 </div>
+
+
+<h4><h4>手机上长按并复制下列网址或二维码分享本平台：</h4>https://github.com/cslak2000/www/blob/master/README.md?b#1<br><img src="http://d1p1.ip.zn2.us/v.php?action=qrcode&url=https://github.com/cslak2000/www/blob/master/README.md?t%231" title="分享本平台"></img>
+</div>
+<div align="center">短网址: <a href="https://git.io/bbbbbbb">git.io/bbbbbbb</a></div>
