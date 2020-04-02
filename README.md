@@ -1,4 +1,4 @@
 
 
 
-![](https://raw.githubusercontent.com/zztianx1x/abcdef/master/aad.jpg)
+![](https://github.com/zztianx1x/abcdef/blob/master/aad.jpg)
