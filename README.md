@@ -13,6 +13,6 @@
 建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bbbbbbb">git.io/bbbbbbb</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/5aa">x.co/5aa</a><br>  
 </details>
 <br>
-<h1><p><strong>新闻热点 海外报道</strong></p></h1>
+<h1><p><strong>新闻热点 海外报道</strong></p></h1></div>
 
 
