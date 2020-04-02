@@ -1,8 +1,3 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-
 <a id="user-content-1" class="anchor" aria-hidden="true" href="#1">
 <a name="1" id="1" target="_blank"></a> <span id="1"></span>
 <a name="2" id="2" target="_blank"></a> <span id="2"></span>
@@ -18,9 +13,3 @@
 建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://git.io/bbbbbbb">git.io/bbbbbbb</a>&nbsp;&nbsp;&nbsp;&nbsp;高速版平台:&nbsp;&nbsp;<a href="https://x.co/5aa">x.co/5aa</a><br>  
 </details>
 <br>
-<h1><p><strong>新闻热点 海外报道</strong></p></h1></div>
-
-
-  
-  </body>
-</html>
