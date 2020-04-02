@@ -8,7 +8,12 @@
 <a name="7" id="7" target="_blank"></a> <span id="7"></span>
 <a id="user-content-1" href="#1">
 <div align="center">
-<a target="_blank" href="https://github.com/zztianx1x/zztianx1x.github.io/blob/master/README.md"><img src="https://github.com/zztianx1x/zztianx1x.github.io/blob/master/aad.jpg"></a><br>
+<a target="_blank" href="https://github.com/cslak2000/djy/blob/master/gb/nsc413.md#1"><img src="https://gitlab.com/szzdlab/www/raw/master/t/www.jpg"></a><br>
+<p><details><summary>个别情况打不开，请用<a href="https://github.com/cslak2000/www/blob/master/README.md?d#1">稳定版平台</a>。持续收看，请<a href="#8">下载翻墙软件</a>&nbsp;&nbsp;....<img width="20" src="https://github.com/images/icons/emoji/unicode/1f4dd.png"/></summary></p>
+建议用海外浏览器打开本平台，同时收藏网址:&nbsp;&nbsp;<a href="https://x.co/ipp">x.co/ipp</a>&nbsp;&nbsp;&nbsp;&nbsp;稳定版平台:&nbsp;&nbsp;<a href="https://git.io/bhhhh">git.io/bhhhh</a><br>  
+</details>
+<br>
+
 
 ![image](https://raw.githubusercontent.com/zztianx1x/zztianx1x.github.io/master/aad.jpg)
 
